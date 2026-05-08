@@ -1,11 +1,11 @@
 ## > quem_sou
-Mirela Sampaio 👋
+Mirela Sampaio 
 
 ```bash
 
 > objetivos
 Desenvolvedora Full Stack em formação
-Sistemas • Dados • Desenvolvimento de Jogos
+Sistemas • Dados • Desenvolvimento de Aplicações e Jogos
 
 > estudando
 Python
